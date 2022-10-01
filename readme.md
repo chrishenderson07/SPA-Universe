@@ -17,8 +17,3 @@
   </a>
 </p>
 
-/*<a href="https://chrishenderson07.github.io/focus-timer-dark-mode/"><h2 align="center">🔗Abrir e Rodar o projeto🔗</h2>
-
-![Imagem de capa do Timer Focus](./images/capa.png)
-</a>
-*/
