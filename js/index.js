@@ -10,9 +10,9 @@ const router = new Router()
 const backgroundChanges = backgroundChange({ bodyPage })
 
 router.add('/', './home.html')
-router.add('/home', './home.html')
-router.add('/universe', './universe.html')
-router.add('/explore', './explore.html')
+router.add('/pages/home', './home.html')
+router.add('/pages/universe', './universe.html')
+router.add('/pages/explore', './explore.html')
 router.add(404, './404.html')
 
 router.handle()
