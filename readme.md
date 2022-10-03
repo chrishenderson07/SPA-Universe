@@ -17,3 +17,7 @@
   </a>
 </p>
 
+<a href="https://spa-universe-seven.vercel.app/"><h2 align="center">🔗Abrir e Rodar o projeto🔗</h2>
+
+![Imagem de capa do SPA Universe](./images/capa.png)
+</a>
